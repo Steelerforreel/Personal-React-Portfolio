@@ -1,8 +1,62 @@
-# React + Vite
+# Personal-React-Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Currently, two official plugins are available:
+  ## Description
+  
+  This is my interactable portfolio created using React. In this application you will find my Resume in a downloadable file as well as an About Me and links to my different social media accounts in order to get in touch and see my recent work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  ## Table of Contents
+  
+  * [Installation Guide](#install)
+  
+  * [Usage](#usage)
+
+  * [Contributors](#contributors)
+
+  * [Test of Application](#testing)
+
+  * [Questions](#questions)
+
+  * [License](#license-📛)
+
+  ## Installation Guide
+  
+  How to install this application within the command prompt.
+
+  ```
+  npm i
+  ```
+
+
+  ## Usage
+  
+  npm start
+
+  ## License 📛 
+
+    Copyright @ MIT. All rights reserved.
+
+    Licensed under the MIT license.
+
+  ## Contributors
+
+  I would like to give credit to
+
+  Jose Lopez tutoring at EDX @ OSU
+
+  ## Test of Application
+
+  Please follow this link to better understand the use for this application.
+
+  ```
+  
+  ```
+  
+  ## Questions?
+
+  Please contact me via email for any questions.
+
+  GitHub: [Steelerforreel](https://github.com/Steelerforreel/)
+
+  Email: reelnicholas@gmail.com
